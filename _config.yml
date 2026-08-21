@@ -23,7 +23,7 @@ repository               : "miquel-lorente/miquel-lorente.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "files/MLP_picture.JPG"
+  avatar           : "MLP_picture.JPG"
   name             : "Miquel Lorente Palau"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Candidate in Economics at Universitat Pompeu Fabra."
