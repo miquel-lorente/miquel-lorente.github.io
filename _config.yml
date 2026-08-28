@@ -23,7 +23,7 @@ repository               : "miquel-lorente/miquel-lorente.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   name: "Miquel Lorente Palau"
-  avatar: "files/MLP_picture.JPG" 
+  avatar: "MLP_picture.JPG" 
   bio: "Ph.D. Candidate in Economics at Universitat Pompeu Fabra."
   email: # "miquel.lorente@upf.edu" 
   links:
