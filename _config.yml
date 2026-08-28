@@ -25,11 +25,7 @@ author:
   name: "Miquel Lorente Palau"
   avatar: "MLP_picture.JPG" 
   bio: "Ph.D. Candidate in Economics at Universitat Pompeu Fabra."
-  email: # "miquel.lorente@upf.edu" 
-  links:
-    - label: "miquel.lorente@upf.edu"
-      icon: "fas fa-fw fa-envelope" 
-      url: "mailto:miquel.lorente@upf.edu"
+  email:  "miquel.lorente@upf.edu" 
     
   # Academic websites
   academia         : # URL
