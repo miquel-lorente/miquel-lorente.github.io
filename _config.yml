@@ -29,10 +29,10 @@ author:
   bio              : "Ph.D. Candidate in Economics at Universitat Pompeu Fabra."
   uri              : # URL
   email            : # "miquel.lorente@upf.edu" 
-links:
-    - label: "miquel.lorente@upf.edu"
-      icon: "fas fa-fw fa-envelope" 
-      url: "mailto:miquel.lorente@upf.edu"
+  links:
+      - label: "miquel.lorente@upf.edu"
+        icon: "fas fa-fw fa-envelope" 
+        url: "mailto:miquel.lorente@upf.edu"
       
   # Academic websites
   academia         : # URL
