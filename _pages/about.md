@@ -14,4 +14,3 @@ Advisors: [Jaume Ventura](https://crei.cat/people/jventura/) and [Manuel García
 
 ### Contact
 **Email:** miquel.lorente@upf.edu  
-**Office:** Department of Economics, Universitat Pompeu Fabra
