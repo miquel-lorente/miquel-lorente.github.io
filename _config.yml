@@ -22,18 +22,15 @@ repository               : "miquel-lorente/miquel-lorente.github.io"
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  # Biographic information
-  avatar           : "MLP_picture.JPG"
-  name             : "Miquel Lorente Palau"
-  pronouns         : # example: "she/her"  
-  bio              : "Ph.D. Candidate in Economics at Universitat Pompeu Fabra."
-  uri              : # URL
-  email            : # "miquel.lorente@upf.edu" 
+  name: "Miquel Lorente Palau"
+  avatar: "files/MLP_picture.JPG" 
+  bio: "Ph.D. Candidate in Economics at Universitat Pompeu Fabra."
+  email: # "miquel.lorente@upf.edu" 
   links:
-      - label: "miquel.lorente@upf.edu"
-        icon: "fas fa-fw fa-envelope" 
-        url: "mailto:miquel.lorente@upf.edu"
-      
+    - label: "miquel.lorente@upf.edu"
+      icon: "fas fa-fw fa-envelope" 
+      url: "mailto:miquel.lorente@upf.edu"
+    
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
