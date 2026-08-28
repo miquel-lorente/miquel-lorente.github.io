@@ -27,11 +27,13 @@ author:
   name             : "Miquel Lorente Palau"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Candidate in Economics at Universitat Pompeu Fabra."
-  location         : "Barcelona, Spain"
-  employer         : "Universitat Pompeu Fabra"
   uri              : # URL
-  email            : "miquel.lorente@upf.edu" 
-
+  email            : # "miquel.lorente@upf.edu" 
+links:
+    - label: "miquel.lorente@upf.edu"
+      icon: "fas fa-fw fa-envelope" 
+      url: "mailto:miquel.lorente@upf.edu"
+      
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
