@@ -8,7 +8,7 @@ author_profile: true
 ## Job Market Paper
 
 **"The macroeconomic consequences of a US trade war for Europe"**  
-[Download Latest Draft](#) |  
+[Download Latest Draft](#)  
 
 ---
 
