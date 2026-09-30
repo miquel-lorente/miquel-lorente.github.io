@@ -6,7 +6,7 @@ author_profile: true
 
 I am a Ph.D. Candidate in Economics at Universitat Pompeu Fabra.
 
-**I will be on the 2026-2027 academic job market.**
+**I am on the 2026-2027 academic job market.**
 
 My research focuses on **International Trade** and **Macroeconomics**. Broadly, I study the macroeconomic effects of open economy policies.
 
