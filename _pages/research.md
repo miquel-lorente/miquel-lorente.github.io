@@ -8,13 +8,13 @@ author_profile: true
 ## Job Market Paper
 
 **"The macroeconomic consequences of a US trade war for Europe"**  
-[Download Latest Draft](#)  
+[Draft](#)  
 
 ---
 
 ## Working Papers
 
-**"The US State Procurement War""** (with Manuel García-Santana, Joshua Mascord, and Marta Santamaría)  
+**"The US State Procurement War"** (with Manuel García-Santana, Joshua Mascord, and Marta Santamaría)  
 
 ---
 
