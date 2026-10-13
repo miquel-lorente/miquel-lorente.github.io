@@ -8,7 +8,7 @@ author_profile: true
 ## Job Market Paper
 
 **"The macroeconomic consequences of a US trade war for Europe"**  
-[Draft](#)  
+[Paper](https://miquel-lorente.github.io/files/Miquel_Lorente_JMP.pdf)  
 
 ---
 
