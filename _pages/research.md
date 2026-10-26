@@ -15,7 +15,7 @@ author_profile: true
 ## Working Papers
 
 **"The US State Procurement War"** (with Manuel García-Santana, Joshua Mascord, and Marta Santamaría)  
-
+[Working paper](https://miquel-lorente.github.io/files/US_procurement.pdf)
 ---
 
 ## Work in Progress
